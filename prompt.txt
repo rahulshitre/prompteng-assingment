@@ -1,0 +1,31 @@
+I have provided my resume below. Please parse the content of my resume into a JSON format with the following structure:
+{
+    "name": "",
+    "contact_information": {
+        "email": "",
+        "phone": "",
+        "address": ""
+    },
+    "summary": "",
+    "experience": [
+        {
+            "company": "",
+            "position": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "",
+            "degree": "",
+            "start_date": "",
+            "end_date": ""
+        }
+    ],
+    "skills": []
+}
+
+Resume:
+[Insert your resume text here]
